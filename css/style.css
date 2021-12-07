@@ -3,3 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.main{
+    height: 400px;
+    width: 600px;
+    background-image: url(../images/pexels-photo-206359.jpeg);
+}
